@@ -1,0 +1,43 @@
+E:\STEP\WebProg\1\ClientServer\Client\bin\Debug\net9.0\Client.exe
+E:\STEP\WebProg\1\ClientServer\Client\bin\Debug\net9.0\Client.deps.json
+E:\STEP\WebProg\1\ClientServer\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+E:\STEP\WebProg\1\ClientServer\Client\bin\Debug\net9.0\Client.dll
+E:\STEP\WebProg\1\ClientServer\Client\bin\Debug\net9.0\Client.pdb
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.dll
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\refint\Client.dll
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.pdb
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+E:\STEP\WebProg\1\ClientServer\Client\obj\Debug\net9.0\ref\Client.dll
+E:\STEP\WebProg\DZ\ClientServer\Client\bin\Debug\net9.0\Client.exe
+E:\STEP\WebProg\DZ\ClientServer\Client\bin\Debug\net9.0\Client.deps.json
+E:\STEP\WebProg\DZ\ClientServer\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+E:\STEP\WebProg\DZ\ClientServer\Client\bin\Debug\net9.0\Client.dll
+E:\STEP\WebProg\DZ\ClientServer\Client\bin\Debug\net9.0\Client.pdb
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.dll
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\refint\Client.dll
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.pdb
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+E:\STEP\WebProg\DZ\ClientServer\Client\obj\Debug\net9.0\ref\Client.dll
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\bin\Debug\net9.0\Client.exe
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\bin\Debug\net9.0\Client.deps.json
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\bin\Debug\net9.0\Client.dll
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\bin\Debug\net9.0\Client.pdb
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.sourcelink.json
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.dll
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\refint\Client.dll
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.pdb
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+E:\STEP\WebProg\DZ\ClientServer TCP\Client\obj\Debug\net9.0\ref\Client.dll
